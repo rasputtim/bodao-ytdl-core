@@ -1,5 +1,4 @@
-declare module 'ytdl-core' {
-  import { ClientRequest } from 'http';
+declare module 'bodao-ytdl-core' {
   import { Readable } from 'stream';
 
   namespace ytdl {

@@ -1,15 +1,15 @@
 {
-  "name": "ytdl-core",
+  "name": "bodao-ytdl-core",
   "description": "YouTube video downloader in pure javascript.",
   "keywords": [
     "youtube",
     "video",
     "download"
   ],
-  "version": "4.11.0",
+  "version": "4.11.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/node-ytdl-core.git"
+    "url": "git+https://github.com/rasputtim/bodao-ytdl-core.git"
   },
   "author": "fent <fentbox@gmail.com> (https://github.com/fent)",
   "contributors": [
@@ -57,5 +57,14 @@
   "engines": {
     "node": ">=12"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasputtim/bodao-ytdl-core/issues"
+  },
+  "homepage": "https://github.com/rasputtim/bodao-ytdl-core#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  }
 }
